@@ -1,0 +1,105 @@
+.row1 {
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    align-content: center;
+}
+
+.row1 p {
+    background-color: cornflowerblue;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.row2 {
+    background-color: lightcoral;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    align-content: flex-end;
+}
+
+.row2 p {
+    background-color: tomato;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.row3 {
+    background-color: limegreen;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    align-content: flex-start;
+}
+
+.row3 p {
+    background-color: green;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.row4 {
+    background-color: lightseagreen;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    align-content: space-around
+}
+
+.row4 p {
+    background-color: blue;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.row5 {
+    background-color: lightslategray;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    align-content: space-between;
+}
+
+.row5 p {
+    background-color: darkslategray;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.row6 {
+    background-color: greenyellow;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    align-content: space-evenly;
+}
+
+.row6 p {
+    background-color: yellow;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.row7 {
+    background-color: peru;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    align-content: stretch;
+}
+
+.row7 p {
+    background-color: orangered;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.btn {
+    border: 1px solid blue;
+    text-decoration: none;
+    padding: 10px;
+    margin: 50%;
+    font-weight: bold;
+}

@@ -1,0 +1,55 @@
+.row {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+}
+
+.row p {
+    background-color: cornflowerblue;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.col {
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+}
+
+.col p {
+    background-color: coral;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.rev-row {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.rev-row p {
+    background-color: cornflowerblue;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.rev-col {
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.rev-col p {
+    background-color: coral;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.btn {
+    border: 1px solid blue;
+    text-decoration: none;
+    padding: 10px;
+    margin: 50%;
+    font-weight: bold;
+}

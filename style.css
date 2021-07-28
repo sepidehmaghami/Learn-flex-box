@@ -1,0 +1,17 @@
+article {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+a {
+    margin: 20PX;
+    font-size: 20PX;
+    font-weight: 800;
+    text-align: center;
+    border: 7px groove lightseagreen;
+    padding: 30px;
+    width: 300px;
+    color: blue;
+    text-decoration: none;
+}
