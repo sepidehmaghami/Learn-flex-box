@@ -1,0 +1,61 @@
+.row1 {
+    background-color: aquamarine;
+    display: flex;
+}
+
+.row1 p {
+    background-color: cornflowerblue;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.row2 {
+    background-color: burlywood;
+    display: flex;
+}
+
+.row2 p {
+    background-color: coral;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.btn {
+    border: 1px solid blue;
+    text-decoration: none;
+    padding: 10px;
+    margin: 50%;
+    font-weight: bold;
+}
+
+.p1 {
+    flex-basis: 155px;
+}
+
+.p2 {
+    flex-basis: 100px;
+}
+
+.p3 {
+    flex-basis: 500px;
+}
+
+.p4 {
+    flex-basis: 160px;
+}
+
+.p5 {
+    flex-basis: 35%
+}
+
+.p6 {
+    flex-basis: 5%;
+}
+
+.p7 {
+    flex-basis: 20%;
+}
+
+.p8 {
+    flex-basis: 60%;
+}

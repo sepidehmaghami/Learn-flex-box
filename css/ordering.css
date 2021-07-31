@@ -1,0 +1,54 @@
+.row {
+    background-color: aquamarine;
+    display: flex;
+}
+
+.row p {
+    background-color: cornflowerblue;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.col {
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+}
+
+.col p {
+    background-color: coral;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.btn {
+    border: 1px solid blue;
+    text-decoration: none;
+    padding: 10px;
+    margin: 50%;
+    font-weight: bold;
+}
+
+.p1 {
+    order: 1;
+}
+
+.p2 {
+    order: 3;
+}
+
+.p3 {
+    order: 2;
+}
+
+.p5 {
+    order: 1;
+}
+
+.p7 {
+    order: 3;
+}
+
+.p8 {
+    order: 2;
+}

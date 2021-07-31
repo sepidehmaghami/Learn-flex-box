@@ -1,0 +1,57 @@
+.row1 {
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    flex-direction: column;
+}
+
+.row1 p {
+    background-color: cornflowerblue;
+    margin: 10PX 5px;
+    padding: 20PX 20px;
+}
+
+.p1 {
+    align-self: auto;
+}
+
+.p2 {
+    align-self: baseline;
+}
+
+.p3 {
+    align-self: center;
+}
+
+.p4 {
+    align-self: flex-end;
+}
+
+.p5 {
+    align-self: flex-start;
+}
+
+.p6 {
+    align-self: stretch;
+}
+
+.p7 {
+    align-self: inherit;
+}
+
+.p8 {
+    align-self: initial;
+}
+
+.p9 {
+    align-self: unset;
+}
+
+.btn {
+    border: 1px solid blue;
+    text-decoration: none;
+    padding: 10px;
+    margin: 50%;
+    font-weight: bold;
+}

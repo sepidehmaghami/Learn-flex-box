@@ -1,0 +1,61 @@
+.row1 {
+    background-color: aquamarine;
+    display: flex;
+}
+
+.row1 p {
+    background-color: cornflowerblue;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.row2 {
+    background-color: burlywood;
+    display: flex;
+}
+
+.row2 p {
+    background-color: coral;
+    margin: 10PX 30px;
+    padding: 20PX 60px;
+}
+
+.btn {
+    border: 1px solid blue;
+    text-decoration: none;
+    padding: 10px;
+    margin: 50%;
+    font-weight: bold;
+}
+
+.p1 {
+    flex-grow: 1;
+}
+
+.p2 {
+    flex-grow: 2;
+}
+
+.p3 {
+    flex-grow: 1;
+}
+
+.p4 {
+    flex-grow: 3;
+}
+
+.p5 {
+    flex-grow: 1;
+}
+
+.p6 {
+    flex-grow: 1;
+}
+
+.p7 {
+    flex-grow: 1;
+}
+
+.p8 {
+    flex-grow: 1;
+}
